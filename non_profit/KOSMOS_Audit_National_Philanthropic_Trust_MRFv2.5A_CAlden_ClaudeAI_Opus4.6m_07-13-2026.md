@@ -1,5 +1,3 @@
----
-
 KOSMOS Systems Auditor Report:
 National Philanthropic Trust — The Architecture of Philanthropic Extraction
 
